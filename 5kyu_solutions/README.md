@@ -9,9 +9,4 @@ Pick Peaks
 Can you get the loop?
 [Kata](https://www.codewars.com/kata/52a89c2ea8ddc5547a000863) ----> [Solution]()
 
-Regex Password Validation
-[Kata]() ----> [Solution]()
-Regex Password Validation
-[Kata]() ----> [Solution]()
-Regex Password Validation
-[Kata]() ----> [Solution]()
+
